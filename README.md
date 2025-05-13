@@ -1,12 +1,39 @@
-<h1 align="center">Hi 👋, I'm JhansiMala</h1>
-<h3 align="center">Data Analyst</h3>
+# Hi there, I'm JhansiMala Silla 👋
 
-- 📫 How to reach me **sillajhansimala@gmail.com**
+## 👨‍💻 About Me
+I'm passionate about solving real-world problems using data and technology. With a background in **Computer Science** and currently pursuing a **Master's in Information Science**, I love to work on projects related to **Machine Learning**, **Artificial Intelligence**, and **Data Analytics**. I'm always looking to learn new technologies and collaborate on impactful projects.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jhansimala silla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhansimala silla" height="30" width="40" /></a>
-</p>
+## 📚 Education
+- **Master's in Information Science** - Missouri University of Science and Technology, Dec 2025  
+- **Bachelor's in Computer Science Engineering** - GMR Institute of Technology, Jul 2022
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## 🔧 Skills & Technologies
+- **Programming Languages**: Python, Java, JavaScript, SQL (MySQL, PostgreSQL)
+- **Web Development**: React.js, Flask, Django, HTML, CSS
+- **Data & AI**: Machine Learning, Deep Learning (PyTorch, OpenCV), Business Analytics
+- **Tools**: SAP S/4HANA, Power BI, Git, GitHub, Lucidchart, Excel, Tableau, MS Project
+
+## 💼 Experience
+- **Student Assistant Teaching** at Missouri S&T (Jan 2025 – Present)
+- **Peer Facilitator** for Project Connect at Missouri S&T (Sep 2024 – Present)
+- **Assistant System Engineer Trainee** at Tata Consultancy Services (Jun 2023 – Dec 2023)
+
+## 📂 Featured Projects
+- **[BestSwitchs-Negotiation-Strategy](https://github.com/sillajhansimala/BestSwitchs-Negotiation-Strategy)**  
+  A project focused on negotiation strategies for the sale of electronic switches.
+  
+- **[Covid19-Detection-using-chest-CT-scan-Images](https://github.com/sillajhansimala/Covid19-Detection-using-chest-CT-scan-Images)**  
+  A deep learning model using ResNet18 to detect COVID-19 from chest CT scans, with an interactive web app.
+  
+- **[Used-car-dataset-dashboard](https://github.com/sillajhansimala/Used-car-dataset-dashboard)**  
+  A dashboard built in Excel to analyze used car pricing, mileage, and ownership trends with dynamic filters and visualizations.
+
+- **[Recreated-Visual-Insights](https://github.com/sillajhansimala/Recreated-Visual-Insights)**  
+  A project focused on data visualization and insights creation.
+
+- **[University-sql-database](https://github.com/sillajhansimala/University-sql-database)**  
+  A MySQL database design for managing student records and course enrollments.
+
+## 📬 Connect with Me:
+- Email: [sillajhansimala@gmail.com](mailto:sillajhansimala@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jhansimala-silla)
