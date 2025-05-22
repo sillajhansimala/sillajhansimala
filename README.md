@@ -36,4 +36,4 @@ I'm passionate about solving real-world problems using data and technology. With
 
 ## 📬 Connect with Me:
 - Email: [sillajhansimala@gmail.com](mailto:sillajhansimala@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/jhansimala-silla)
+- [LinkedIn]([https://www.linkedin.com/in/jhansimala-silla](https://www.linkedin.com/in/jhansimala/))
