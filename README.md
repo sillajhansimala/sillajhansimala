@@ -19,9 +19,12 @@ I'm passionate about solving real-world problems using data and technology. With
 - **Assistant System Engineer Trainee** at Tata Consultancy Services (Jun 2023 – Dec 2023)
 
 ## 📂 Featured Projects
+- **[Walmart-Sales-Analytics-Dashboard](https://github.com/sillajhansimala/Walmart-Sales-Analytics-Dashboard)**  
+  A fully interactive dashboard analyzing Walmart customer purchase behavior, built using SQL + Tableau.
+  
 - **[Customer-Churn-Dashboard-Bank-Dataset](https://github.com/sillajhansimala/Customer-Churn-Dashboard-Bank-Dataset)**  
   A dashboard build in Microsoft Power BI to analyze bank customer churn.
-  
+
 - **[BestSwitchs-Negotiation-Strategy](https://github.com/sillajhansimala/BestSwitchs-Negotiation-Strategy)**  
   A project focused on negotiation strategies for the sale of electronic switches.
   
